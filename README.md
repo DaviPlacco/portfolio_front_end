@@ -1,30 +1,24 @@
-# React + TypeScript + Vite
+# Portfolio of Front-end Developer, Web Designer, and Designer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my portfolio! Here you will find a selection of my projects, contact information, my journey, and my skills as a Front-end Developer, Web Designer, and Designer.
 
-Currently, two official plugins are available:
+## Contact
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **LinkedIn:** [Davi Placco](https://www.linkedin.com/in/davi-placco-9b943217a/)
+- **Email:** davibplacco@gmail.com
 
-## Expanding the ESLint configuration
+## Journey
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+I started in 2019 as a marketing assistant focusing on e-commerce maintenance, and since then, I have been specializing and working in the field for almost 5 years.
 
-- Configure the top-level `parserOptions` property like this:
+## Skills
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
+- JavaScript / TypeScript
+- React.js / Tailwind / Node.js
+- SASS / LESS
+- Figma / Photoshop
+- Responsive Design / SEO
+- Wordpress / Elementor
+- UX/UI Design
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+Feel free to contact me if you are interested in collaborating or learning more about my projects and skills!
