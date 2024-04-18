@@ -1,6 +1,30 @@
 #root {
-  max-width: 1280px;
-  margin: 0 auto;
-  padding: 2rem;
+  margin: 0;
+  padding: 0;
   text-align: center;
+}
+
+:root{
+  --blue-text: linear-gradient(289deg, #1850E1 48.86%, #7EA2FF 112.97%, #C5D5FF 112.97%);
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  background: linear-gradient(180deg, #000814 0%, #040E1D 49%, #000814 100%);
+}
+
+#main-section{
+  background-image: linear-gradient(to top, rgba(0, 8, 20, 0), rgba(0, 8, 20, 1));
+}
+
+#iam, #daviplacco, #frontend, #webdesigner{
+  background: var(--blue-text);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
