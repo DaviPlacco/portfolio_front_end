@@ -29,3 +29,8 @@ body{
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
+
+#BtnExperiencie{
+  background-image: var(--blue-text);
+  transition: 400ms ease-in-out;
+}

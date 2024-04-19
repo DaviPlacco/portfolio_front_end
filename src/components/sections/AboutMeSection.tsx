@@ -1,4 +1,6 @@
 import AboutImage from '../../assets/Aboutsection/AboutImage.png'
+import MeImage from '../../assets/Aboutsection/MeImage.png'
+import { BtnExperiencie } from '../Btn/BtnExperiencie'
 
 export const AboutMe = () => {
     return(
@@ -12,12 +14,8 @@ export const AboutMe = () => {
                     <span className="text-white text-[22px] font-semibold font-['Inter']">Software Engineering</span>
                     <span className="text-white text-[22px] font-light font-['Inter']"> student at Unicesumar Brazil, studying at a campus in Switzerland (Geneva). I am in my second year and have already completed 2 years of Information Technology Management at Jundiai (FATEC) before transferring to the current course.</span>
                     </p>
-                    <h3 id="frontend" className="text-[26px] font-light font-['Oxanium']">
-                        Front-end Developer
-                    </h3>
-                    <h3 id="webdesigner" className="pt-6 text-[26px] font-light font-['Oxanium']">
-                        Web Designer
-                    </h3>
+                    <BtnExperiencie/>
+                    <img src={MeImage} alt="Me Image" className="w-1/2 pointer-events-none select-none"/>
                 </section>
                 <section className="w-1/2 sm:w-full flex flex-col">
                     <img src={AboutImage} alt="abouimage" draggable="false" className="pointer-events-none select-none"/>
