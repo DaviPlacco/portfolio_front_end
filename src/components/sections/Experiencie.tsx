@@ -33,13 +33,13 @@ export const Experiencie = () => {
                     <div className="w-[27px] h-[27px] rounded-full bg-white"></div>
                     <div className="flex-col w-1/3 h-full text-left">
                         <p className="text-left text-white opacity-80 font-['Inter'] text-[16px] pb-[58px]">I am a <strong>Software Engineering</strong> student at Unicesumar Brazil, studying at a campus in Switzerland (Geneva). I am in my second year and have already completed 2 years of Information Technology Management at Jundiai (FATEC) before transferring to the current course.</p>
-                        <a id="checktheportfoliobtn" href="#" className="text-[26px] text-left font-['Oxanium']">Check the Portfolio</a>
+                        <a id="checkbtn" href="#" className="text-[26px] text-left font-['Oxanium']">Check the Portfolio    <span id="chevronright" className="text-[26px] font-medium font-['Oxanium']">&gt;</span></a>
                     </div>
                 </div>
             </div>
         </div>
         <div className="w-full flex items-center justify-center py-[150px]"> 
-            <div id="divisor"></div>
+            <div id="divider"></div>
         </div>
         </>
     )

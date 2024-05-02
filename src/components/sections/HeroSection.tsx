@@ -9,7 +9,7 @@ export const HeroSection = () => {
                     <h3 id="iam" className="text-[26px] font-light font-['Oxanium']">
                         HI I`M 
                     </h3>
-                    <h1 id="DaviPlacco" className="text-white text-[100px] font-light font-['Oxanium']">
+                    <h1 id="daviplacco" className="text-white text-[100px] font-light font-['Oxanium']">
                         Davi B. Placco
                     </h1>
                     <h3 id="frontend" className="text-[26px] font-light font-['Oxanium']">
