@@ -23,7 +23,7 @@ body{
   background-image: linear-gradient(to top, rgba(0, 8, 20, 0), rgba(0, 8, 20, 1));
 }
 
-#daviplaccologo, #iam, #frontend, #webdesigner, #chevronleft, #chevronright, #left-curly-brace, #right-curly-brace, #checkbtn{
+#daviplaccologo, #iam, #frontend, #webdesigner, #chevronleft, #chevronright, #left-curly-brace, #right-curly-brace, #checkbtn, #myskills{
   background: var(--blue-text);
   background-clip: text;
   -webkit-background-clip: text;

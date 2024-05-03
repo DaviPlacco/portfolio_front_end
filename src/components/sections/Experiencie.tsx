@@ -1,6 +1,7 @@
 import Imgtwothousandtree from '../../assets/Experiencie/2023img.svg'
 import Imgtwothousandone from '../../assets/Experiencie/2021img.svg'
 import Imgtwothousandnine from '../../assets/Experiencie/2019img.svg'
+import { Divider } from '../Divider/Divider'
 
 export const Experiencie = () => {
     return(
@@ -16,7 +17,7 @@ export const Experiencie = () => {
                 </span>
             </h3>
         </div>
-        <div className="w-full flex items-center justify-center">
+        <div className="w-full flex items-center justify-center pb-[100px]">
             <div id="timeline" > 
                 <div id="timelinecontainerone" className="w-[1280px] flex items-start justify-center gap-20 pb-[296px]">
                     <div className="w-1/3 flex justify-end"><img id="img1" src={Imgtwothousandtree} alt="" className="w-[297px]"/></div>
@@ -38,9 +39,7 @@ export const Experiencie = () => {
                 </div>
             </div>
         </div>
-        <div className="w-full flex items-center justify-center py-[150px]"> 
-            <div id="divider"></div>
-        </div>
+        <Divider/>
         </>
     )
 }
