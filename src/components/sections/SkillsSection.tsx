@@ -3,7 +3,7 @@ import { Divider } from '../Divider/Divider'
 import CodeIcon from '../../assets/Skillssection/SkillsIcons/codeicon.svg'
 import WordpressIcon from '../../assets/Skillssection/SkillsIcons/wordpressiconpng.png'
 import DesignIcon from '../../assets/Skillssection/SkillsIcons/designicon.svg'
-import { ToolsSection } from '../ToolsSection/ToolsSection'
+import { ToolsSection } from './ToolsSection/ToolsSection'
 
 export const SkillsSection = () =>{
     return(
@@ -61,6 +61,7 @@ export const SkillsSection = () =>{
                     </div>
                 </div>
                 <ToolsSection/>
+                <Divider/>
             </section>    
         </>
     )
