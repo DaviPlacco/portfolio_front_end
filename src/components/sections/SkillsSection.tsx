@@ -3,6 +3,7 @@ import { Divider } from '../Divider/Divider'
 import CodeIcon from '../../assets/Skillssection/SkillsIcons/codeicon.svg'
 import WordpressIcon from '../../assets/Skillssection/SkillsIcons/wordpressiconpng.png'
 import DesignIcon from '../../assets/Skillssection/SkillsIcons/designicon.svg'
+import { ToolsSection } from '../ToolsSection/ToolsSection'
 
 export const SkillsSection = () =>{
     return(
@@ -28,7 +29,7 @@ export const SkillsSection = () =>{
                 </div>
                 <div className="w-full flex justify-center pt-[100px]">
                     <div className="w-[1280px] flex">
-                        <div className="flex text-left gap-16">
+                        <div className="flex text-left gap-16"> 
                             <div className="flex-col">
                                 <img src={CodeIcon} alt="" className="pb-4"/>
                                 <h3 className="text-white text-[36px] font-['Oxanium'] pb-4">
@@ -59,6 +60,7 @@ export const SkillsSection = () =>{
                         </div>
                     </div>
                 </div>
+                <ToolsSection/>
             </section>    
         </>
     )
