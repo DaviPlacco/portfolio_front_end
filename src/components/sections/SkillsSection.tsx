@@ -31,7 +31,7 @@ export const SkillsSection = () =>{
                     <div className="w-[1280px] flex">
                         <div className="flex text-left gap-16"> 
                             <div className="flex-col">
-                                <img src={CodeIcon} alt="" className="pb-4"/>
+                                <img src={CodeIcon} alt="" className="pb-8"/>
                                 <h3 className="text-white text-[36px] font-['Oxanium'] pb-4">
                                     Front-end
                                 </h3>
