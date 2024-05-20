@@ -1,7 +1,7 @@
 #root {
   margin: 0;
   padding: 0;
-  text-align: center;
+  text-align: center; 
 }
 
 :root{
@@ -132,7 +132,7 @@ body{
   z-index: -1;
   animation: scrolleffect linear both;
   animation-timeline: view();
-  animation-range: entry 80% cover 80%;
+  animation-range: entry 90% cover 70%;
 }
 
 @keyframes scrolleffect {

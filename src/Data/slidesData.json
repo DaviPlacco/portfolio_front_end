@@ -1,0 +1,21 @@
+[
+    {
+      "image": "/CarouselImages/MARCUSSIBACKGROUND.png",
+      "alt": "Web Site Conveniencia Marcussi",
+      "buttonLink": "https://convenienciamarcussi.com.br/",
+      "buttonText": "See the project link"
+    },
+    {
+      "image": "https://www.tesla.com/ownersmanual/images/GUID-1F2D8746-336F-4CF9-9A04-F35E960F31FE-online-en-US.png",
+      "alt": "Descrição da imagem 2",
+      "buttonLink": "https://exemplo.com/pagina-2",
+      "buttonText": "See the project link"
+    },
+    {
+      "image": "https://www.revistacarros.pt/wp-content/uploads/2024/04/Tesla-Model-Y-scaled_925x520_acf_cropped-925x520-1.jpg",
+      "alt": "Descrição da imagem 3",
+      "buttonLink": "https://exemplo.com/pagina-3",
+      "buttonText": "See the project link"
+    }
+  ]
+  

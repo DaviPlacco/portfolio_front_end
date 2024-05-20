@@ -26,7 +26,7 @@ export const ToolsSection = () => {
                                 Tools, Languages, and Frameworks
                             </h2>
                             <div className="flex items-center gap-4 pb-[164px]">
-                                <img src={ReactJsImg} alt="Reac Js Image" />
+                                <img src={ReactJsImg} alt="Reac Js Image"/>
                                 <h4 className="font-['Oxanium'] text-[22px] text-white font-light pr-16">
                                     React.js
                                 </h4>
