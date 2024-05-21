@@ -30,8 +30,17 @@ body{
   -webkit-text-fill-color: transparent;
 }
 
-#BtnExperiencie, #DownloadCV{
+#BtnExperiencie, #DownloadCV, #SeeProjects{
   background-image: var(--blue-text);
+  transition: 400ms ease-in-out;
+}
+
+#SeeProjects:hover, #DownloadCV:hover, #BtnExperiencie:hover{
+  background: white !important;
+  color: black;
+  -webkit-box-shadow: 2px 4px 80px 0px rgba(255,255,255,1);
+  -moz-box-shadow: 2px 4px 80px 0px rgba(255,255,255,1);
+  box-shadow: 2px 4px 80px 0px rgba(255,255,255,1);
 }
 
 #timeline{
@@ -116,11 +125,41 @@ body{
 
 /* About Me Section */
 
+#aboutmeH2, #iamText, #aboutImage{
+  animation: fade linear both;
+  animation-timeline: view();
+  animation-range: entry 50% cover 50%;
+}
+
+@keyframes fade {
+    from{
+        opacity: 0;
+    }
+    to{
+        opacity: 1;
+    }
+}
+
+#BtnExperiencie{
+  animation: entryup linear both;
+  animation-timeline: view();
+  animation-range: entry 20% cover 20%;
+}
+
+@keyframes entryup {
+  from{
+    transform: translateY(100px);
+  }
+  to{
+    transform: translateY(0px);
+  }
+}
+
 /*  */
 
 /* Experiencie Section */
 
-#timeline::after{
+/* #timeline::after{
   content: '';
   position: absolute;
   width: 2px;
@@ -142,7 +181,7 @@ body{
   to{
       height: 80%;
   }
-}
+} */
 
 #timelinecontainerone, #timelinecontainertwo, #timelinecontainertr, #experiencie{
   animation: fade linear both;
@@ -160,3 +199,23 @@ body{
 }
 
 /*  */
+
+/* Skills Section */
+
+#skillsimage, #myskills, #contibuteH2, #designercontainer, #webdesignercontainer, #frontendcontainer{
+  animation: fade linear both;
+  animation-timeline: view();
+  animation-range: entry 50% cover 50%;
+}
+
+/*  */
+
+/* Footer */
+
+#Linkedin, #GitHub, #Behance, #Instagram, #Whatsapp{
+  transition: 400ms ease-in-out;
+}
+
+#Linkedin:hover, #GitHub:hover, #Behance:hover, #Instagram:hover, #Whatsapp:hover{
+  transform: translateY(-5px);
+}

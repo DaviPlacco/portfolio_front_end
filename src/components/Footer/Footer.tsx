@@ -17,7 +17,7 @@ export const Footer = () => {
                     <h4 className="font-['Inter'] text-left text-[18px] font-light text-white opacity-50">
                         © {currentYear} Davi Placco. All rights reserved.
                     </h4>
-                </div>
+                    </div>
                 <div className="w-1/3 flex justify-center items-center"> 
                     <img src={DevSymbolImg} alt="Dev Symbol Image" className=""/>
                 </div>
@@ -26,11 +26,11 @@ export const Footer = () => {
                         Social:
                     </h5>
                     <div className="flex gap-6">
-                        <a href="https://www.linkedin.com/in/davi-placco-9b943217a/" target="_blank" rel="noopener noreffer"><img src={LinkedinImg} alt="Linkedin Image" /></a>
-                        <a href="https://github.com/DaviPlacco" target="_blank" rel="noopener noreffer"><img src={GitHubImg} alt="Git Hub Image" /></a>
-                        <a href="https://www.behance.net/davibplacco" target="_blank" rel="noopener noreffer"><img src={BehanceImg} alt="Behance Image" /></a>
-                        <a href="https://www.instagram.com/davi_placco/" target="_blank" rel="noopener noreffer"><img src={InstagramImg} alt="Instagram Image" /></a>
-                        <a href="https://wa.me/351910728668?text=Hi%2C+I+came+across+your+portfolio+and+really+liked+what+I+saw.+I+would+like+to+have+more+information+about+your+work%21" target="_blank" rel="noopener noreffer"><img src={WhatsappImg} alt="Whatsapp Image" /></a>
+                        <a href="https://www.linkedin.com/in/davi-placco-9b943217a/" target="_blank" rel="noopener noreffer"><img src={LinkedinImg} alt="Linkedin Image" id="Linkedin" /></a>
+                        <a href="https://github.com/DaviPlacco" target="_blank" rel="noopener noreffer"><img src={GitHubImg} alt="Git Hub Image" id="GitHub"/></a>
+                        <a href="https://www.behance.net/davibplacco" target="_blank" rel="noopener noreffer"><img src={BehanceImg} alt="Behance Image" id="Behance" /></a>
+                        <a href="https://www.instagram.com/davi_placco/" target="_blank" rel="noopener noreffer"><img src={InstagramImg} alt="Instagram Image" id="Instagram" /></a>
+                        <a href="https://wa.me/351910728668?text=Hi%2C+I+came+across+your+portfolio+and+really+liked+what+I+saw.+I+would+like+to+have+more+information+about+your+work%21" target="_blank" rel="noopener noreffer"><img src={WhatsappImg} alt="Whatsapp Image" id="Whatsapp" /></a>
                     </div>
                 </div>
             </div>
