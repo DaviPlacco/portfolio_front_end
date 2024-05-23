@@ -36,7 +36,7 @@ export const SkillsSection = () =>{
                                     Front-end
                                 </h3>
                                 <p className="text-white opacity-50 w-[360px] font-['Inter']">
-                                    I am a Software Engineering student at Unicesumar Brazil, studying at a campus in Switzerland (Geneva). I am in my second year and have already completed 2 years
+                                As a Front-end Developer, I use technologies like React, Tailwind, and TypeScript to build dynamic and responsive user interfaces. My work ensures that applications are intuitive, high-performing, and scalable, providing users with a seamless experience.
                                 </p>
                             </div>
                             <div id="webdesignercontainer" className="flex-col">
@@ -45,7 +45,7 @@ export const SkillsSection = () =>{
                                     Web Designer
                                 </h3>
                                 <p className="text-white opacity-50 w-[360px] font-['Inter']">
-                                    I am a Software Engineering student at Unicesumar Brazil, studying at a campus in Switzerland (Geneva). I am in my second year and have already completed 2 years
+                                As a Web Designer, I specialize in creating visually appealing and functional websites using WordPress and Elementor. I focus on SEO optimization to enhance search engine performance, increasing the visibility and reach of your website.
                                 </p>
                             </div>
                             <div id="designercontainer" className="flex-col">
@@ -54,7 +54,7 @@ export const SkillsSection = () =>{
                                     Design
                                 </h3>
                                 <p className="text-white opacity-50 w-[360px] font-['Inter']">
-                                    I am a Software Engineering student at Unicesumar Brazil, studying at a campus in Switzerland (Geneva). I am in my second year and have already completed 2 years
+                                As a Designer, I leverage tools like Photoshop and Figma to craft compelling visual materials and prototypes. My design skills help translate ideas into visually appealing projects that effectively communicate your brand’s message
                                 </p>
                             </div>
                         </div>
