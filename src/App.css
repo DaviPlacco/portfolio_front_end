@@ -60,9 +60,14 @@ body{
   -webkit-text-fill-color: transparent;
 }
 
-#BtnExperiencie, #DownloadCV, #SeeProjects{
+#BtnExperiencie, #DownloadCV, #SeeProjects, #behanceBtn{
   background-image: var(--blue-text);
   transition: 400ms ease-in-out;
+}
+
+#behanceBtn:hover{
+  background-position: center;
+  background-size: 200%;
 }
 
 #SeeProjects:hover, #DownloadCV:hover, #BtnExperiencie:hover{
@@ -231,10 +236,29 @@ body{
   cursor: pointer;
 }
 
+#nodeicon:hover, #javascripticon:hover, #photoshopicon:hover{
+  filter: blur(2px);
+}
+
 #reacticon:hover, #tailwindicon:hover{
   transform: rotate(180deg);
   scale: 1.05;
 }
+
+#apiicon:hover, #cssicon:hover, #sassicon:hover, #lessicon:hover, #figmaicon:hover{
+  filter: brightness(150%);
+}
+
+#wordpressicon:hover{
+  transform: rotate(360deg);
+  scale: 1.05;
+}
+
+#elementoricon:hover{
+  scale: 0.95;
+  filter: brightness(70%);
+}
+
 
 #reacttext, #tailwindtext, #nodetext, #javascripttext, #apitext, #csstext, #sasstext, #lesstext, #wordpresstext, #elementortext, #figmatext, #photoshoptext{
   cursor: pointer;
