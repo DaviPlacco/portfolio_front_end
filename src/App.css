@@ -305,3 +305,26 @@ body{
 #Linkedin:hover, #GitHub:hover, #Behance:hover, #Instagram:hover, #Whatsapp:hover{
   transform: translateY(-5px);
 }
+
+/*  */
+
+
+/* Responsive @medias */
+
+@media screen and (max-width: 640px) {
+  #main-section {
+    width: 100vw;
+  }
+  #herocontainer {
+    width: 100vw;
+    height: 100vh;
+    flex-direction: column;
+  }
+  #herocontainer {
+    width: 100vw;
+    height: 100vh;
+    flex-direction: column;
+  }
+}
+
+/*  */

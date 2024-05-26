@@ -4,7 +4,7 @@ import HeroImage from '../../assets/Herosection/heroimage.png'
 export const HeroSection = () => {
     return(
         <div className="w-full flex items-center justify-center pb-28">
-            <div className="pt-28 h-screen w-[1280px] flex items-center justify-center">
+            <div id="herocontainer" className="pt-28 h-screen w-[1280px] flex items-center justify-center ">
                 <section className="w-1/2 sm:w-full flex flex-col items-start">
                     <h3 id="iam" className="text-[26px] font-light font-['Oxanium']">
                         HI I`M 
