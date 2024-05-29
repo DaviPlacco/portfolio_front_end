@@ -24,27 +24,11 @@
       "buttonText": "See the project link"
     },
     {
-      "image": "/CarouselImages/FERNANDAFEIJOEIROBACKGROUND.png",
-      "alt": "Web Site Fernanda Feijoeiro",
-      "buttonLink": "https://www.behance.net/gallery/188152573/Landing-Page-Fernanda-Feijoeiro-(Methode-Leduc)",
-      "buttonBehance": "https://www.behance.net/gallery/183268843/ONE-PAGE-COFFE-SHOP",
+      "image": "/CarouselImages/CAMPEZZIBACKGROUND.png",
+      "alt": "Campezzi Web Site",
+      "buttonLink": "https://campezzicortinasepersianas.com/",
+      "buttonBehance": "https://www.behance.net/gallery/199613841/WEB-SITE-CAMPEZZI",
       "buttonTextBehance": "Behance",
-      "buttonText": "See the project link"
-    },
-    {
-      "image": "/CarouselImages/FERNANDAFEIJOEIROBACKGROUND.png",
-      "alt": "Web Site Fernanda Feijoeiro",
-      "buttonLink": "https://www.behance.net/gallery/188152573/Landing-Page-Fernanda-Feijoeiro-(Methode-Leduc)",
-      "buttonBehance": "https://www.behance.net/gallery/183268843/ONE-PAGE-COFFE-SHOP",
-      "buttonTextBehance": "Behance",
-      "buttonText": "See the project link"
-    },
-    {
-      "image": "https://www.revistacarros.pt/wp-content/uploads/2024/04/Tesla-Model-Y-scaled_925x520_acf_cropped-925x520-1.jpg",
-      "alt": "Descrição da imagem 3",
-      "buttonLink": "https://exemplo.com/pagina-3",
-      "buttonBehance": "https://www.behance.net/gallery/183268843/ONE-PAGE-COFFE-SHOP",
-      "buttonTextBehance": "GitHub",
       "buttonText": "See the project link"
     }
   ]
