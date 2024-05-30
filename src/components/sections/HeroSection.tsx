@@ -19,7 +19,7 @@ export const HeroSection = () => {
                         Web Designer
                     </h3>
                 </section>
-                <section className="w-1/2 sm:w-full flex flex-col items-end">
+                <section id="codeimage" className="w-1/2 sm:w-full flex flex-col items-end">
                     <img src={HeroImage} alt="heroimage" draggable="false" className="h-[1100px] pointer-events-none select-none"/>
                 </section>
              </div>

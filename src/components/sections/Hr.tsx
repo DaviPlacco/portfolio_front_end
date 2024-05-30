@@ -4,8 +4,8 @@ import HrTwo from '../../assets/Hr-space/hrtwo.png'
 export const HrSpace = () => {
     return(
         <>
-            <img src={Hrone} alt="Hr-Space" className="select-none"/>
-            <img src={HrTwo} alt="Hr-Space" className="select-none"/>
+            <img id="hrone" src={Hrone} alt="Hr-Space" className="select-none"/>
+            <img id="hrtwo" src={HrTwo} alt="Hr-Space" className="select-none"/>
         </>
     )
 }

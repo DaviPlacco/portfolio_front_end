@@ -32,7 +32,7 @@ export function Carousel({ slides }: { slides: Slide[] }) {
             transform: `translateX(${(index - currentSlide) * 100}%)`,
           }}
         >
-          <img className="w-full h-full object-cover  pointer-events-none select-none" src={image} alt={alt} />
+          <img className="w-full h-full object-cover pointer-events-none select-none" src={image} alt={alt} />
           <div className="absolute bottom-10 left-1/2 transform -translate-x-1/2 text-center text-white">
             <a href={buttonLink} className="mt-2 inline-block" rel="noopener noreffer" target="_blank">
               <button className="w-[220px] h-[50px] bg-zinc-100 rounded-[50px] text-center text-black text-lg font-semibold font-['Inter'] hover:text-white hover:bg-transparent hover: border-[1.5px] transition-all duration-300">
