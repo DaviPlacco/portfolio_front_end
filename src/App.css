@@ -309,9 +309,10 @@ body{
 /*  */
 
 
-/* Responsive @medias */
+/* Responsive Home @medias */
 
 @media screen and (max-width: 640px) {
+
   #main-section {
     width: 100vw;
     justify-content: center;
@@ -352,11 +353,17 @@ body{
     display: none;
   }
 
-  #hrone, #hrtwo {
-    width: 1280px;
-    max-width: 1280px;
-    display: flex;
-    transform: translateX(-400px);
+  #hrcontainer{
+    overflow-x: hidden;
+
+    &  #hrone, #hrtwo {
+      width: 1280px;
+      max-width: 1280px;
+      display: flex;
+      transform: translateX(-400px);
+      overflow-x: hidden;
+    }
+    
   }
 
   #aboutcontainer {
@@ -380,6 +387,50 @@ body{
 
   }
 
+  #experiencie {
+      
+    & h3, span {
+      font-size: 26px;
+    }
+  }
+
+  #timeline {
+    
+    & #timelinecontainerone, #timelinecontainertwo, #timelinecontainertr {
+      display: flex;
+      flex-direction: column;
+      width: 100vw;
+      justify-content: center;
+      align-items: center;
+      padding-bottom: 100px;
+
+      & p {
+        width: 350px;
+        padding-bottom: none;
+      }
+
+    }
+  }
+
 }
+
+/*  */
+
+/* Projects Page */
+
+/* Front-end Section */
+
+#ImageFrontEnd {
+  filter: drop-shadow(0px 5px 12px  #00000093);
+  transition: 400ms ease-in-out;
+}
+
+#ImageFrontEnd:hover {
+  filter: drop-shadow(0px 6px 16px  #000000b7);
+  cursor: pointer;
+  transform: translateY(-10px);
+}
+
+/*  */
 
 /*  */

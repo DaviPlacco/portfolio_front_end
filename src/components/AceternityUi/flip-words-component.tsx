@@ -1,4 +1,4 @@
-import { FlipWords } from "../components/ui/flip-words";
+import { FlipWords } from "../ui/flip-words";
 
 export function FlipWordsDemo() {
   const words = ["front-end", "web-designer", "UX/UI", "design"];

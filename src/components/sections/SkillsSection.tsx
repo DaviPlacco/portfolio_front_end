@@ -31,7 +31,7 @@ export const SkillsSection = () =>{
                     <div className="w-[1280px] flex">
                         <div className="flex text-left gap-16"> 
                             <div id="frontendcontainer" className="flex-col">
-                                <img src={CodeIcon} alt="" className="pb-8"/>
+                                <img src={CodeIcon} alt="Code Icon" className="pb-8"/>
                                 <h3 className="text-white text-[36px] font-['Oxanium'] pb-4">
                                     Front-end
                                 </h3>
@@ -40,7 +40,7 @@ export const SkillsSection = () =>{
                                 </p>
                             </div>
                             <div id="webdesignercontainer" className="flex-col">
-                                <img src={WordpressIcon} alt="" className="pb-4"/>
+                                <img src={WordpressIcon} alt="Wordpress Icon" className="pb-4"/>
                                 <h3 className="text-white text-[36px] font-['Oxanium'] pb-4">
                                     Web Designer
                                 </h3>
@@ -49,7 +49,7 @@ export const SkillsSection = () =>{
                                 </p>
                             </div>
                             <div id="designercontainer" className="flex-col">
-                                <img src={DesignIcon} alt="" className="pb-4"/>
+                                <img src={DesignIcon} alt="Design Icon" className="pb-4"/>
                                 <h3 className="text-white text-[36px] font-['Oxanium'] pb-4">
                                     Design
                                 </h3>
