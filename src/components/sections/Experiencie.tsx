@@ -34,12 +34,12 @@ export const Experiencie = () => {
                 <div id="timelinecontainertr" className="w-[1280px] flex items-start justify-center gap-20">
                     <div className="w-1/3 flex justify-end"><img id="img3" src={Imgtwothousandnine} alt="" className="w-[297px]"/></div>
                     <div className="w-[27px] h-[27px] rounded-full bg-white"></div>
-                    <div className="flex-col w-1/3 h-full text-left">
-                        <p className="text-left text-white opacity-80 font-['Inter'] text-[16px] pb-[58px]"><strong>Web Designer & Designer</strong> <br></br><br></br>I work focused on e-commerce platforms and development in digital marketing! I create profitable strategies and analyze and develop reports based on competitive market analysis. I edit images and videos using professional software. I also edit and maintain websites. <strong><a href="https://www.sanxferramentas.com.br/" target="_blank" rel="noopner noreffer">( Sanx Ferramentas 2019 - 2021 )  </a> </strong></p>
-                        <a id="checkbtn" href="#portfoliocarousel" className="text-[26px] text-left font-['Oxanium']">Check the Portfolio    <span id="chevronright" className="text-[26px] font-medium font-['Oxanium']">&gt;</span></a>
-                    </div>
+                        <p className="w-1/3 text-left text-white opacity-80 font-['Inter'] text-[16px]"><strong>Web Designer & Designer</strong> <br></br><br></br>I work focused on e-commerce platforms and development in digital marketing! I create profitable strategies and analyze and develop reports based on competitive market analysis. I edit images and videos using professional software. I also edit and maintain websites. <strong><a href="https://www.sanxferramentas.com.br/" target="_blank" rel="noopner noreffer">( Sanx Ferramentas 2019 - 2021 )  </a> </strong></p>
                 </div>
             </div>
+        </div>
+        <div className="pb-16">
+        <a id="checkbtn" href="#portfoliocarousel" className="text-[26px] text-left font-['Oxanium']">Check the Portfolio    <span id="chevronright" className="text-[26px] font-medium font-['Oxanium']">&gt;</span></a>
         </div>
         <Divider/>
         </>

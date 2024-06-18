@@ -3,7 +3,7 @@ import { DownloadCV } from "../Btn/DownloadCV"
 export const ContactSection = () => {
     return(
         <>
-            <section className="w-full py-[150px]">
+            <section id="contactsection" className="w-full py-[150px]">
                 <div className="w-full flex justify-center">
                     <div className="w-[1280px] flex-col justify-center">
                         <h2 className="text-[56px] text-center font-['Oxanium'] text-white font-light pb-[35px]">

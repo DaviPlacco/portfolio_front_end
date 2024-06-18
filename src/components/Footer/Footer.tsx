@@ -11,13 +11,13 @@ export const Footer = () => {
 
     return(
         <>
-        <section className="w-full h-[180px] flex justify-center border-t-2 border-slate-900">
+        <section id="footersection" className="w-full h-[180px] flex justify-center border-t-2 border-slate-900">
             <div className="w-[1280px] flex items-center">
                 <div className="w-1/3">
                     <h4 className="font-['Inter'] text-left text-[18px] font-light text-white opacity-50">
                         © {currentYear} Davi Placco. All rights reserved.
                     </h4>
-                    </div>
+                </div>
                 <div className="w-1/3 flex justify-center items-center"> 
                     <img src={DevSymbolImg} alt="Dev Symbol Image" className=""/>
                 </div>
@@ -25,7 +25,7 @@ export const Footer = () => {
                     <h5 className="font-['Inter'] text-left text-[18px] font-light text-white opacity-50">
                         Social:
                     </h5>
-                    <div className="flex gap-6">
+                    <div id="socialcontainer" className="flex gap-6">
                         <a href="https://www.linkedin.com/in/davi-placco-9b943217a/" target="_blank" rel="noopener noreffer"><img src={LinkedinImg} alt="Linkedin Image" id="Linkedin" /></a>
                         <a href="https://github.com/DaviPlacco" target="_blank" rel="noopener noreffer"><img src={GitHubImg} alt="Git Hub Image" id="GitHub"/></a>
                         <a href="https://www.behance.net/davibplacco" target="_blank" rel="noopener noreffer"><img src={BehanceImg} alt="Behance Image" id="Behance" /></a>

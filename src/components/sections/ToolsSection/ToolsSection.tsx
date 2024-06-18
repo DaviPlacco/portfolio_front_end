@@ -36,8 +36,8 @@ export const ToolsSection = () => {
 
     return(
         <>
-            <div className="w-full flex justify-center py-[150px]">
-                    <div className="w-[1280px] flex">
+            <section id="toolssection" className="w-full flex justify-center py-[150px]">
+                    <div id="toolscontainer" className="w-[1280px] flex">
                         <div className="w-1/3">
                             <img id="toolsimage" src={ToolsImg} alt="TollsImage" className="w-1/2 pointer-events-none select-none"/>
                         </div>
@@ -101,7 +101,7 @@ export const ToolsSection = () => {
                             </div>
                         </div>
                     </div>
-                </div>
+                </section>
         </>
     )
 }

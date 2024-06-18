@@ -8,7 +8,7 @@ import { ToolsSection } from './ToolsSection/ToolsSection'
 export const SkillsSection = () =>{
     return(
         <>
-            <section className="w-full pt-[50px]">
+            <section id="skillssection" className="w-full pt-[50px]">
                 <div className="w-full flex justify-center">
                     <div className="w-[1280px] flex justify-center pb-[96px]">
                         <div>
@@ -27,7 +27,7 @@ export const SkillsSection = () =>{
                         <Divider/>
                     </div>
                 </div>
-                <div className="w-full flex justify-center pt-[100px]">
+                <div id="skillscontainer" className="w-full flex justify-center pt-[100px]">
                     <div className="w-[1280px] flex">
                         <div className="flex text-left gap-16"> 
                             <div id="frontendcontainer" className="flex-col">

@@ -10,7 +10,7 @@ export const HeroSection = () => {
                         HI I`M 
                     </h3>
                     <h1 id="daviplacco" className="text-white text-[100px] font-light font-['Oxanium']">
-                        Davi B. Placco
+                    <span>D</span><span>a</span><span>v</span><span>i</span> <span>B.</span> <span>P</span><span>l</span><span>a</span><span>c</span><span>c</span><span>o</span>
                     </h1>
                     <h3 id="frontend" className="text-[26px] font-light font-['Oxanium']">
                         Front-end Developer

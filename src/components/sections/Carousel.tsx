@@ -10,7 +10,7 @@ export const CarouselSection = () =>{
                      <span id="chevronleft" className="text-[46px] font-medium font-['Oxanium']">&lt;</span>My Projects<span id="chevronright" className="text-[46px] font-medium font-['Oxanium']">/&gt;</span>
                 </h2>     
             </div>
-            <div>
+            <div id="slidecarousel">
                 <Carousel slides={slidesData} />
             </div>
             <div className="pt-[150px]"> 
