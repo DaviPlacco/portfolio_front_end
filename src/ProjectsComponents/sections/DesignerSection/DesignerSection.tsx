@@ -17,11 +17,13 @@ export const DesignerSection = () => {
             <div id="DesignerContainer" className="flex justify-center pb-16">
                 <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 w-[1280px]">
                 {frontend_db.map((project) => (
-                    <div key={project.id} className="min-w-[400px] text-left">
+                    <div key={project.id} className="min-w-[400px] text-left">                     
                       <a target="_blank" rel="noopener noreffer" href={project.link}>
                       <img id="ImageDesigner" src={project.image} alt={project.alt} className="w-[400px] rounded-[5px]"/>
                       </a>
+                      <div className="flex justify-between">
                         <h4 className="font-['Inter'] text-[22px] font-semibold py-2">{project.title}</h4>
+                      </div>    
                         <p className="pb-4 text-[16px] ">{project.text}</p>
                     </div>  
                     ))} 

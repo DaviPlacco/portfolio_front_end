@@ -1,14 +1,22 @@
 [
     {
       "id": "1",
-      "image": "/ProjectsImages/COMINGSOONDARK.png",
-      "alt": "Web Site Conveniencia Marcussi",
-      "title": "Coming Soon",
+      "image": "/ProjectsImages/DesignerProjects/ORBACKGROUND.png",
+      "alt": "OR Company Brand",
+      "title": "OR Company Brand",
       "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, eveniet fugiat facere libero tempore sint nostrum aspernatur repellat quia eius quas, quibusdam minima obcaecati. Nulla expedita ab dolorum enim nostrum?",
-      "link": "https://google.com"
+      "link": "https://www.behance.net/gallery/197563093/OR-Company-Brand-(Development-concept-company)"
     },
     {
-        "id": "1",
+        "id": "2",
+        "image": "/ProjectsImages/DesignerProjects/SOCIALMEDIABACKGROUND.png",
+        "alt": "Social Media Promotion",
+        "title": "Social Media Promotion",
+        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, eveniet fugiat facere libero tempore sint nostrum aspernatur repellat quia eius quas, quibusdam minima obcaecati. Nulla expedita ab dolorum enim nostrum?",
+        "link": "https://www.behance.net/gallery/182226445/Social-Media-Banner-to-restaurant"
+      },
+      {
+        "id": "3",
         "image": "/ProjectsImages/COMINGSOONDARK.png",
         "alt": "Web Site Conveniencia Marcussi",
         "title": "Coming Soon",
@@ -16,7 +24,7 @@
         "link": "https://google.com"
       },
       {
-        "id": "1",
+        "id": "4",
         "image": "/ProjectsImages/COMINGSOONDARK.png",
         "alt": "Web Site Conveniencia Marcussi",
         "title": "Coming Soon",
@@ -24,7 +32,7 @@
         "link": "https://google.com"
       },
       {
-        "id": "1",
+        "id": "5",
         "image": "/ProjectsImages/COMINGSOONDARK.png",
         "alt": "Web Site Conveniencia Marcussi",
         "title": "Coming Soon",
@@ -32,15 +40,7 @@
         "link": "https://google.com"
       },
       {
-        "id": "1",
-        "image": "/ProjectsImages/COMINGSOONDARK.png",
-        "alt": "Web Site Conveniencia Marcussi",
-        "title": "Coming Soon",
-        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, eveniet fugiat facere libero tempore sint nostrum aspernatur repellat quia eius quas, quibusdam minima obcaecati. Nulla expedita ab dolorum enim nostrum?",
-        "link": "https://google.com"
-      },
-      {
-        "id": "1",
+        "id": "6",
         "image": "/ProjectsImages/COMINGSOONDARK.png",
         "alt": "Web Site Conveniencia Marcussi",
         "title": "Coming Soon",
