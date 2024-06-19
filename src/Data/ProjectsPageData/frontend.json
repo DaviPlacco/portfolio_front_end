@@ -1,7 +1,7 @@
 [
     {
       "id": "1",
-      "image": "/ProjectsImages/FrontEndProjects/CURRENCYCONVERTER.png",
+      "image": "portfolio_front_end//ProjectsImages/FrontEndProjects/CURRENCYCONVERTER.png",
       "alt": "Currency Converter Web Aplication",
       "title": "Currency Converter",
       "text": "This is a currency converter using a free API updating values every 30 seconds. In this project, I made a simple screen using the LESS pre-processor via CDN, skipping 'npm' installation, used JavaScript for real-time API calls, with a simple but responsive design for all devices!!",
@@ -9,7 +9,7 @@
     },
     {
         "id": "2",
-        "image": "/ProjectsImages/COMINGSOONDARK.png",
+        "image": "portfolio_front_end//ProjectsImages/COMINGSOONDARK.png",
         "alt": "Web Site Conveniencia Marcussi",
         "title": "Coming Soon",
         "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, eveniet fugiat facere libero tempore sint nostrum aspernatur repellat quia eius quas, quibusdam minima obcaecati. Nulla expedita ab dolorum enim nostrum?",
@@ -17,7 +17,7 @@
       },
       {
         "id": "3",
-        "image": "/ProjectsImages/COMINGSOONDARK.png",
+        "image": "portfolio_front_end//ProjectsImages/COMINGSOONDARK.png",
         "alt": "Web Site Conveniencia Marcussi",
         "title": "Coming Soon",
         "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, eveniet fugiat facere libero tempore sint nostrum aspernatur repellat quia eius quas, quibusdam minima obcaecati. Nulla expedita ab dolorum enim nostrum?",
@@ -25,7 +25,7 @@
       },
       {
         "id": "4",
-        "image": "/ProjectsImages/COMINGSOONDARK.png",
+        "image": "portfolio_front_end//ProjectsImages/COMINGSOONDARK.png",
         "alt": "Web Site Conveniencia Marcussi",
         "title": "Coming Soon",
         "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, eveniet fugiat facere libero tempore sint nostrum aspernatur repellat quia eius quas, quibusdam minima obcaecati. Nulla expedita ab dolorum enim nostrum?",
@@ -33,7 +33,7 @@
       },
       {
         "id": "5",
-        "image": "/ProjectsImages/COMINGSOONDARK.png",
+        "image": "portfolio_front_end//ProjectsImages/COMINGSOONDARK.png",
         "alt": "Web Site Conveniencia Marcussi",
         "title": "Coming Soon",
         "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, eveniet fugiat facere libero tempore sint nostrum aspernatur repellat quia eius quas, quibusdam minima obcaecati. Nulla expedita ab dolorum enim nostrum?",
@@ -41,7 +41,7 @@
       },
       {
         "id": "6",
-        "image": "/ProjectsImages/COMINGSOONDARK.png",
+        "image": "portfolio_front_end//ProjectsImages/COMINGSOONDARK.png",
         "alt": "Web Site Conveniencia Marcussi",
         "title": "Coming Soon",
         "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, eveniet fugiat facere libero tempore sint nostrum aspernatur repellat quia eius quas, quibusdam minima obcaecati. Nulla expedita ab dolorum enim nostrum?",

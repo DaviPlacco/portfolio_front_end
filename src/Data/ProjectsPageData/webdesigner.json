@@ -1,7 +1,7 @@
 [
     {
       "id": "1",
-      "image": "/ProjectsImages/WebDesignerProjects/MARCUSSIBACKGROUND.png",
+      "image": "portfolio_front_end//ProjectsImages/WebDesignerProjects/MARCUSSIBACKGROUND.png",
       "alt": "Web Site Conveniencia Marcussi",
       "title": "Conveniencia Marcussi",
       "text": "This site is a onepage, based on the Marcussi coffee shop. Using the following tools: Wordpress - Elementor - Figma",
@@ -9,7 +9,7 @@
     },
     {
         "id": "2",
-        "image": "/ProjectsImages/WebDesignerProjects/CAMPEZZIBACKGROUND.png",
+        "image": "portfolio_front_end//ProjectsImages/WebDesignerProjects/CAMPEZZIBACKGROUND.png",
         "alt": "Web Site Campezzi Cortinas",
         "title": "Campezzi Cortinas",
         "text": "This website was designed and structured to elevate the credibility of the curtains and blinds company. Featuring a minimalist and fully responsive design. Tools used: WordPress, Elementor Pro, and Figma.",
@@ -17,7 +17,7 @@
       },
       {
         "id": "3",
-        "image": "/ProjectsImages/WebDesignerProjects/GCRDIGITALBACKGROUND.png",
+        "image": "portfolio_front_end//ProjectsImages/WebDesignerProjects/GCRDIGITALBACKGROUND.png",
         "alt": "Landing Page GCR Digital",
         "title": "GCR Digital",
         "text": "This project is a landing page whose objective is to emphasize your digital exhibition proposal, as it is a Marketing agency that works well on Call to action, Responsive Design, calibrated SEO and Performance at the highest level.",
@@ -25,7 +25,7 @@
       },
       {
         "id": "4",
-        "image": "/ProjectsImages/WebDesignerProjects/FERNANDAFEIJOEIROBACKGROUND.png",
+        "image": "portfolio_front_end//ProjectsImages/WebDesignerProjects/FERNANDAFEIJOEIROBACKGROUND.png",
         "alt": "Landing Page Fernanda Feijoeiro",
         "title": "Fernanda Feijoeiro",
         "text": "This project is a Landing Page whose objective is to publicize the Leduc International Method course, a method renowned throughout the world. This project includes techniques currently used by professionals in the web design area, such as responsiveness, SEO and performance optimization techniques.",
@@ -33,7 +33,7 @@
       },
       {
         "id": "5",
-        "image": "/ProjectsImages/COMINGSOONLIGHT.png",
+        "image": "portfolio_front_end//ProjectsImages/COMINGSOONLIGHT.png",
         "alt": "Web Site Conveniencia Marcussi",
         "title": "Coming Soon",
         "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, eveniet fugiat facere libero tempore sint nostrum aspernatur repellat quia eius quas, quibusdam minima obcaecati. Nulla expedita ab dolorum enim nostrum?",
@@ -41,7 +41,7 @@
       },
       {
         "id": "6",
-        "image": "/ProjectsImages/COMINGSOONLIGHT.png",
+        "image": "portfolio_front_end//ProjectsImages/COMINGSOONLIGHT.png",
         "alt": "Web Site Conveniencia Marcussi",
         "title": "Coming Soon",
         "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, eveniet fugiat facere libero tempore sint nostrum aspernatur repellat quia eius quas, quibusdam minima obcaecati. Nulla expedita ab dolorum enim nostrum?",

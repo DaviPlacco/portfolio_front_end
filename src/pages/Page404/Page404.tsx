@@ -10,7 +10,7 @@ export const Page404 = () => {
                 <p className="text-white font-['inter']">
                     oops.. Nothing to see here
                 </p>
-                <Link to={"/"} className="text-white underline decoration-1">Go back to the content</Link>
+                <Link to={"/portfolio_front_end"} className="text-white underline decoration-1">Go back to the content</Link>
             </section>
         </>
     )

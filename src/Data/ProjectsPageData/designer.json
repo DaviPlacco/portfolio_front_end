@@ -1,7 +1,7 @@
 [
     {
       "id": "1",
-      "image": "/ProjectsImages/DesignerProjects/ORBACKGROUND.png",
+      "image": "portfolio_front_end//ProjectsImages/DesignerProjects/ORBACKGROUND.png",
       "alt": "OR Company Brand",
       "title": "OR Company Brand",
       "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, eveniet fugiat facere libero tempore sint nostrum aspernatur repellat quia eius quas, quibusdam minima obcaecati. Nulla expedita ab dolorum enim nostrum?",
@@ -9,7 +9,7 @@
     },
     {
         "id": "2",
-        "image": "/ProjectsImages/DesignerProjects/SOCIALMEDIABACKGROUND.png",
+        "image": "portfolio_front_end//ProjectsImages/DesignerProjects/SOCIALMEDIABACKGROUND.png",
         "alt": "Social Media Promotion",
         "title": "Social Media Promotion",
         "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, eveniet fugiat facere libero tempore sint nostrum aspernatur repellat quia eius quas, quibusdam minima obcaecati. Nulla expedita ab dolorum enim nostrum?",
@@ -17,7 +17,7 @@
       },
       {
         "id": "3",
-        "image": "/ProjectsImages/COMINGSOONDARK.png",
+        "image": "portfolio_front_end//ProjectsImages/COMINGSOONDARK.png",
         "alt": "Web Site Conveniencia Marcussi",
         "title": "Coming Soon",
         "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, eveniet fugiat facere libero tempore sint nostrum aspernatur repellat quia eius quas, quibusdam minima obcaecati. Nulla expedita ab dolorum enim nostrum?",
@@ -25,7 +25,7 @@
       },
       {
         "id": "4",
-        "image": "/ProjectsImages/COMINGSOONDARK.png",
+        "image": "portfolio_front_end//ProjectsImages/COMINGSOONDARK.png",
         "alt": "Web Site Conveniencia Marcussi",
         "title": "Coming Soon",
         "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, eveniet fugiat facere libero tempore sint nostrum aspernatur repellat quia eius quas, quibusdam minima obcaecati. Nulla expedita ab dolorum enim nostrum?",
@@ -33,7 +33,7 @@
       },
       {
         "id": "5",
-        "image": "/ProjectsImages/COMINGSOONDARK.png",
+        "image": "portfolio_front_end//ProjectsImages/COMINGSOONDARK.png",
         "alt": "Web Site Conveniencia Marcussi",
         "title": "Coming Soon",
         "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, eveniet fugiat facere libero tempore sint nostrum aspernatur repellat quia eius quas, quibusdam minima obcaecati. Nulla expedita ab dolorum enim nostrum?",
@@ -41,7 +41,7 @@
       },
       {
         "id": "6",
-        "image": "/ProjectsImages/COMINGSOONDARK.png",
+        "image": "portfolio_front_end//ProjectsImages/COMINGSOONDARK.png",
         "alt": "Web Site Conveniencia Marcussi",
         "title": "Coming Soon",
         "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, eveniet fugiat facere libero tempore sint nostrum aspernatur repellat quia eius quas, quibusdam minima obcaecati. Nulla expedita ab dolorum enim nostrum?",
