@@ -9,7 +9,7 @@ function AppRoutes() {
     return(
         <BrowserRouter>
             <Routes>
-                <Route path="/" element={<Home />}></Route>
+                <Route path="/portfolio_front_end" element={<Home />}></Route>
                 <Route path="/Projects" element={<Projects />}></Route>
                 <Route path="*" element={<Page404 />}></Route>
             </Routes>
