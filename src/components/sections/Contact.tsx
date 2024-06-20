@@ -10,7 +10,7 @@ export const ContactSection = () => {
                             Contact me!
                         </h2>
                         <a id="davigmail" href="mailto:davibplacco@gmail.com" rel="noopener noreffer" target="_blank" className="text-[56px] text-center font-['Oxanium'] text-white font-light">
-                            davibplacc@gmail.com
+                            davibplacco@gmail.com
                         </a>
                         <div className="pt-[54px]">
                             <DownloadCV/>
