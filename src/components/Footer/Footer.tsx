@@ -26,11 +26,11 @@ export const Footer = () => {
                         Social:
                     </h5>
                     <div id="socialcontainer" className="flex gap-6">
-                        <a href="https://www.linkedin.com/in/davi-placco-9b943217a/" target="_blank" rel="noopener noreffer"><img src={LinkedinImg} alt="Linkedin Image" id="Linkedin" /></a>
-                        <a href="https://github.com/DaviPlacco" target="_blank" rel="noopener noreffer"><img src={GitHubImg} alt="Git Hub Image" id="GitHub"/></a>
-                        <a href="https://www.behance.net/davibplacco" target="_blank" rel="noopener noreffer"><img src={BehanceImg} alt="Behance Image" id="Behance" /></a>
-                        <a href="https://www.instagram.com/davi_placco/" target="_blank" rel="noopener noreffer"><img src={InstagramImg} alt="Instagram Image" id="Instagram" /></a>
-                        <a href="https://wa.me/351910728668?text=Hi%2C+I+came+across+your+portfolio+and+really+liked+what+I+saw.+I+would+like+to+have+more+information+about+your+work%21" target="_blank" rel="noopener noreffer"><img src={WhatsappImg} alt="Whatsapp Image" id="Whatsapp" /></a>
+                        <a href="https://www.linkedin.com/in/davi-placco-9b943217a/" target="_blank" rel="noopener norefferer"><img src={LinkedinImg} alt="Linkedin Image" id="Linkedin" /></a>
+                        <a href="https://github.com/DaviPlacco" target="_blank" rel="noopener norefferer"><img src={GitHubImg} alt="Git Hub Image" id="GitHub"/></a>
+                        <a href="https://www.behance.net/davibplacco" target="_blank" rel="noopener norefferer"><img src={BehanceImg} alt="Behance Image" id="Behance" /></a>
+                        <a href="https://www.instagram.com/davi_placco/" target="_blank" rel="noopener norefferer"><img src={InstagramImg} alt="Instagram Image" id="Instagram" /></a>
+                        <a href="https://wa.me/351910728668?text=Hi%2C+I+came+across+your+portfolio+and+really+liked+what+I+saw.+I+would+like+to+have+more+information+about+your+work%21" target="_blank" rel="noopener norefferer"><img src={WhatsappImg} alt="Whatsapp Image" id="Whatsapp" /></a>
                     </div>
                 </div>
             </div>
