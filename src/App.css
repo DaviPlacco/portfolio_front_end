@@ -726,3 +726,50 @@ body{
   }
 
 }
+
+/*  */
+
+/* Responsive Projects page @medias */
+
+@media screen and (max-width: 640px) { 
+  #HeroSectionProjects {
+    & h2 {
+      font-size: 36px;
+    }
+    & p {
+      font-size: 16px;
+    }
+  }
+  #FrontEndSection, #WebDesignerSection, #DesignerSection {
+    & h3, img {
+      padding: 10px;
+    }
+
+    & img {
+      margin-left: 10px;
+    }
+
+    & #FrontEndContainer, #WebDesignerContainer, #DesignerContainer {
+      animation: none;
+      filter: none;
+      & h4, a, p {
+        padding-left: 10px;
+      }
+      & p {
+        max-width: 400px;
+      }
+    }
+  }
+  #FlipWordsContainer {
+      height: 50vh;
+      background-color: black;
+      z-index: 20;
+      justify-content: center;
+      align-items: center;
+      display: flex;
+
+    & #FlipUiDiv {
+      display: none;
+    }
+  }
+}
