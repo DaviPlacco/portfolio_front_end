@@ -4,6 +4,7 @@ import GitHubImg from '../../assets/FooterIcons/githubicon.svg'
 import BehanceImg from '../../assets/FooterIcons/behanceicon.svg'
 import InstagramImg from '../../assets/FooterIcons/instagramicon.svg'
 import WhatsappImg from '../../assets/FooterIcons/whatsappicon.svg'
+import Circle from '../../assets/FooterIcons/CIRCLE.png'
 
 export const Footer = () => {
 
@@ -11,7 +12,10 @@ export const Footer = () => {
 
     return(
         <>
-        <section id="footersection" className="w-full h-[180px] flex justify-center border-t-2 border-slate-900">
+        <section id="footersection" className="relative w-full h-[180px] flex justify-center border-t-2 border-slate-900">
+            <div>
+            <img id="circleimg" src={Circle} alt="" />
+            </div>
             <div className="w-[1280px] flex items-center">
                 <div className="w-1/3">
                     <h4 className="font-['Inter'] text-left text-[18px] font-light text-white opacity-50">
