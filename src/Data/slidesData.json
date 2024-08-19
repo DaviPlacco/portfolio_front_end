@@ -8,7 +8,7 @@
       "buttonText": "See the project link"
     },
     {
-      "image": "portfolio_front_end//CarouselImages/FERNANDAFEIJOEIROBACKGROUND.png",
+      "image": "portfolio_front_end/CarouselImages/FERNANDAFEIJOEIROBACKGROUND.png",
       "alt": "Web Site Fernanda Feijoeiro",
       "buttonLink": "https://www.behance.net/gallery/188152573/Landing-Page-Fernanda-Feijoeiro-(Methode-Leduc)",
       "buttonBehance": "https://www.behance.net/gallery/188152573/Landing-Page-Fernanda-Feijoeiro-(Methode-Leduc)",
@@ -16,7 +16,7 @@
       "buttonText": "See the project link"
     },
     {
-      "image": "portfolio_front_end//CarouselImages/GCRDIGITALBACKGROUND.png",
+      "image": "portfolio_front_end/CarouselImages/GCRDIGITALBACKGROUND.png",
       "alt": "Landing Page GCR Digital",
       "buttonLink": "https://gcrdigital.com.br/",
       "buttonBehance": "https://www.behance.net/gallery/199411777/LANDING-PAGE-GCR-DIGITAL",
@@ -24,7 +24,7 @@
       "buttonText": "See the project link"
     },
     {
-      "image": "portfolio_front_end//CarouselImages/CAMPEZZIBACKGROUND.png",
+      "image": "portfolio_front_end/CarouselImages/CAMPEZZIBACKGROUND.png",
       "alt": "Campezzi Web Site",
       "buttonLink": "https://campezzicortinasepersianas.com/",
       "buttonBehance": "https://www.behance.net/gallery/199613841/WEB-SITE-CAMPEZZI",
@@ -32,7 +32,7 @@
       "buttonText": "See the project link"
     },
     {
-      "image": "portfolio_front_end//CarouselImages/TODOBACKGROUND.png",
+      "image": "portfolio_front_end/CarouselImages/TODOBACKGROUND.png",
       "alt": "To do Web App",
       "buttonLink": "https://www.behance.net/gallery/202070649/To-do-UXUI-and-Branding-(Mobile-website-app)",
       "buttonBehance": "https://www.behance.net/gallery/202070649/To-do-UXUI-and-Branding-(Mobile-website-app)",
