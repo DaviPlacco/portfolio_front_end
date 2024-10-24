@@ -13,6 +13,7 @@
   padding: 0;
   box-sizing: border-box;
   scroll-behavior: smooth;
+  /* outline: 1px solid white; debug CSS */ 
 }
 
 /* Scroll Bar */
@@ -436,11 +437,20 @@ body{
 
 @media screen and (max-width: 640px) {
 
+  html, body{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+  }
+
   #main-section {
-    width: 100vw;
+    width: 100%;
     justify-content: center;
     align-items: center;
     position: fixed;
+    box-sizing: border-box !important;
+    margin: 0%;
+    padding: 0%;
   }
   #herocontainer {
     width: 100vw;
@@ -488,7 +498,6 @@ body{
       display: flex;
       transform: translateX(-400px);
       overflow-x: hidden;
-
     }
     
   }
@@ -578,14 +587,13 @@ body{
   #skillssection {
     justify-content: center;
     align-items: center;
-    width: 100vw;
-    padding: 20px;
+    width: 100%;
 
     & div {
       width: 100vw;
 
       #skillsimage {
-        width: 100%;
+        width: 80%;
         padding: 20px;
       }
 
@@ -610,7 +618,7 @@ body{
 
       & img {
         width: 15%;
-      }  
+      }
 
       }
 
@@ -754,6 +762,10 @@ body{
 
     }
 
+  }
+
+  #divider {
+    max-width: 100%;
   }
 
 }
